@@ -76,7 +76,6 @@ Alle weiteren Ports sind nur innerhalb des VPCs offen.
 | Global Catalog               | 3268 (TCP)              |         |
 | Global Catalog SSL           | 3269 (TCP)              |         |
 | Kerberos Password Change/Set | 464 (TCP/UDP)           |         |
-|                              |                         |         |
 
 ### Sicherheitsgruppe für Clients
 
